@@ -1,0 +1,5 @@
+com\sarayamvc\controller\WelcomeController.class
+com\sarayamvc\security\SecurityConfiguration.class
+com\sarayamvc\controller\PatientController.class
+com\sarayamvc\service\PatientService.class
+com\sarayamvc\model\Patient.class
